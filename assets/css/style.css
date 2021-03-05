@@ -1,0 +1,13 @@
+.card-flex{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items:center;
+}
+
+.card-item{
+    width: 200px;
+    height:500px;
+    
+}
